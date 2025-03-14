@@ -114,6 +114,7 @@ dependencies = [
     "smolagents>=1.8.0",
     "apify-client>=1.8.1",
     "reportlab>=4.3.1",
+    "tinydb>=4.8.2",
 ]
 
 [dependency-groups]
