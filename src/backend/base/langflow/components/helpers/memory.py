@@ -55,7 +55,7 @@ class MemoryComponent(Component):
             value="Ascending",
             info="Order of the messages.",
             advanced=True,
-            tool_mode=True,
+            tool_mode=False,
         ),
         MultilineInput(
             name="template",
