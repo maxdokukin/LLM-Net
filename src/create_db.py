@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to (or create) the SQLite database file
-conn = sqlite3.connect("university.sqlite")
+conn = sqlite3.connect("university.db")
 cursor = conn.cursor()
 
 # Create the departments table
